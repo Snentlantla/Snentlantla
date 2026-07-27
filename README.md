@@ -1,70 +1,77 @@
 <div align="center">
 
-# 🌿 SINENTLANTLA TSHANGASE
+# 🟢 SINENTLANTLA TSHANGASE
 
-### 💻 Aspiring Software Developer | 📊 Data Analytics Enthusiast
+### 💻 Aspiring Software Developer  ×  📊 Data Analytics
 
 <p>
-  <img src="https://img.shields.io/badge/Software%20Development-17251d?style=for-the-badge&logo=code&logoColor=white" alt="Software Development">
-  <img src="https://img.shields.io/badge/Data%20Analytics-5b9c6c?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics">
-  <img src="https://img.shields.io/badge/Information%20Technology-79b98b?style=for-the-badge&logo=computer&logoColor=17251d" alt="Information Technology">
+  <strong>Final-Year BSc Information Technology Student</strong><br>
+  North-West University 🇿🇦
 </p>
 
 <p>
-  <strong>🌱 Building solutions • 📚 Learning continuously • 🚀 Growing through technology</strong>
+  <a href="https://github.com/Snentlantla">
+    <img src="https://img.shields.io/badge/GitHub-Snentlantla-17251d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/sinentlantla-tshangase-b14a483b2">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-5b9c6c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:sinentlantlatshangase02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-79b98b?style=for-the-badge&logo=gmail&logoColor=17251d" alt="Email">
+  </a>
+</p>
+
+<p>
+  🌱 <strong>Learn.</strong> &nbsp; 💻 <strong>Build.</strong> &nbsp; 📊 <strong>Analyse.</strong> &nbsp; 🚀 <strong>Grow.</strong>
 </p>
 
 </div>
 
 ---
 
-## 🖼️ My Virtual CV Portfolio
+## 👋 Hey, I'm Sinentlantla!
 
-<p align="center">
-  <img src="https://placehold.co/1000x450/e8f3eb/17251d?text=Sinentlantla+Tshangase+%7C+Virtual+CV+Portfolio" alt="Virtual CV Portfolio Preview">
-</p>
+> 💡 **I'm passionate about turning ideas into practical technology solutions.**
 
-> 💡 **Portfolio:** A modern digital CV showcasing my skills, education, experience, projects, certification, and career interests.
+I am **Sinentlantla Tshangase**, a **Final-year BSc Information Technology student at North-West University** with a strong interest in **Software Development** and **Data Analytics**.
 
----
+I enjoy programming, solving problems, working with databases, analysing data, and continuously learning new technologies. My goal is to build a career where I can combine **creative software development** with **analytical thinking** to create useful and meaningful technology solutions.
 
-## 👋 About Me
-
-I am **Sinentlantla Tshangase**, a **Final-year BSc Information Technology student at North-West University** with a strong passion for **Software Development** and **Data Analytics**. I enjoy using technology to solve problems, create practical solutions, work with databases, analyse data, and continuously improve my programming skills.
-
-My goal is to grow as a **Software Developer** while developing my knowledge and experience in **Data Analytics**. I am motivated to gain practical industry experience, learn new technologies, and contribute to meaningful technology-driven projects.
+I'm currently focused on growing my technical skills, gaining practical industry experience, and building projects that demonstrate what I can do. 🚀
 
 ---
 
-## 🎯 Career Interests
+## 🧠 My Tech Focus
 
-💻 **Software Development**
+<div align="center">
 
-I am passionate about developing software solutions that solve real-world problems. I enjoy programming, logical problem-solving, application development, and learning new technologies.
+### 💻 SOFTWARE DEVELOPMENT
+**Build • Solve • Create**
 
-📊 **Data Analytics**
+### 📊 DATA ANALYTICS
+**Explore • Analyse • Discover**
 
-I am interested in working with data, identifying patterns, analysing information, and using analytical techniques to discover meaningful insights that can support better decision-making.
-
-> 🚀 **My Career Focus:** Software Development × Data Analytics
+</div>
 
 ---
 
-## 💻 Technical Skills
-
-My five main technical skills are:
+## 🛠️ My 5 Main Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,mysql" alt="Java, C++, C#, Python and SQL">
 </p>
 
-- ☕ **Java**
-- ⚙️ **C++**
-- 🟣 **C#**
-- 🐍 **Python**
-- 🗄️ **SQL**
+| # | Skill | Focus |
+|---|---|---|
+| ☕ | **Java** | Programming & Object-Oriented Development |
+| ⚙️ | **C++** | Programming, Logic & File Handling |
+| 🟣 | **C#** | Application Development |
+| 🐍 | **Python** | Programming & Data Analytics |
+| 🗄️ | **SQL** | Database Management & Data Retrieval |
 
-I have also developed valuable professional skills including **problem-solving, analytical thinking, teamwork, communication, adaptability, reliability, discipline, and time management**.
+### 🌟 Soft Skills
+
+🧠 **Problem-Solving** · 📊 **Analytical Thinking** · 🤝 **Teamwork** · 💬 **Communication** · 🔄 **Adaptability** · ⏱️ **Time Management**
 
 ---
 
@@ -72,53 +79,65 @@ I have also developed valuable professional skills including **problem-solving, 
 
 ### 🐾 01 — Pet Management System
 
-The **Pet Management System** is a software development project focused on managing and organising pet information. The project allowed me to apply programming concepts, file handling, and logical problem-solving techniques to develop a practical information management system.
+> A practical software project focused on managing and organising pet information.
 
-**Technology Focus:** `C++` · `Object-Oriented Programming` · `File Handling`
+I developed a system that applies programming concepts and file handling to manage pet information. This project helped strengthen my understanding of programming logic, structured problem-solving, and practical software development.
+
+**Tech Focus:** `C++` `OOP` `File Handling`
 
 ---
 
 ### 🗄️ 02 — Database Management Projects
 
-My **Database Management Projects** demonstrate my experience working with relational databases and SQL. These projects involved database design, relationships between data entities, SQL queries, data retrieval, and database management.
+> Designing databases. Writing SQL. Working with data.
 
-**Technology Focus:** `SQL` · `Database Design` · `ERD` · `Relational Databases`
+These projects demonstrate my experience with relational database design, entity relationships, SQL queries, data retrieval, and database management.
+
+**Tech Focus:** `SQL` `Database Design` `ERD` `Relational Databases`
 
 ---
 
 ### 📊 03 — Fitness Tracker Data Analysis
 
-The **Fitness Tracker Data Analysis Project** focused on analysing fitness tracker information involving steps and sleep patterns. Using **Python and K-Means clustering**, I explored the dataset and identified patterns within the data.
+> Turning data into patterns and insights.
 
-This project strengthened my interest in **Data Analytics** and helped me understand how data analysis techniques can be used to discover meaningful insights.
+I used **Python and K-Means clustering** to analyse fitness tracker data involving steps and sleep patterns. This project strengthened my interest in Data Analytics and helped me explore how data analysis can reveal useful patterns.
 
-**Technology Focus:** `Python` · `Data Analytics` · `K-Means Clustering`
+**Tech Focus:** `Python` `K-Means` `Data Analytics`
 
 ---
 
 ## 🎓 Education
 
-🎓 **BSc Information Technology**  
+### 🎓 BSc Information Technology
 **North-West University** | 2023 – Present
 
-I am currently completing my BSc Information Technology as a final-year student. My studies have provided me with a strong foundation in programming, software development, databases, networking, and other areas of Information Technology.
+📍 Final-year student
 
-🏫 **National Senior Certificate**  
+My studies have developed my knowledge in programming, software development, databases, networking, and other areas of Information Technology.
+
+---
+
+### 🏫 National Senior Certificate
 **Ncomani High School** | 2018 – 2021
-
-My academic journey has played an important role in developing my interest in technology and motivating me to pursue a career focused on **Software Development and Data Analytics**.
 
 ---
 
 ## 💼 Work Experience
 
-### 🏢 General Worker — Brumby Shoe Components
+### 🏢 General Worker
+**Brumby Shoe Components** | 2022 – 2023
 
-**2022 – 2023**
+During my work experience, I worked effectively as part of a team to meet daily targets and complete assigned responsibilities.
 
-During my time at Brumby Shoe Components, I worked effectively as part of a team, contributed towards achieving daily targets, followed workplace procedures and safety standards, and completed assigned responsibilities.
+I developed valuable transferable skills in:
 
-This experience helped me develop valuable transferable skills, including **teamwork, communication, discipline, reliability, adaptability, and time management**.
+- 🤝 Teamwork
+- 💬 Communication
+- ⏱️ Time Management
+- ✅ Reliability
+- 🔄 Adaptability
+- 🧠 Discipline
 
 ---
 
@@ -126,31 +145,46 @@ This experience helped me develop valuable transferable skills, including **team
 
 ### 🔐 Introduction to Cybersecurity
 
-**Cisco Networking Academy | 2025**
+**Cisco Networking Academy** | 2025
 
-I completed the **Introduction to Cybersecurity certification through Cisco Networking Academy in 2025**. The certification provided me with foundational knowledge of cybersecurity concepts and digital security.
+I completed the **Introduction to Cybersecurity** certification, gaining foundational knowledge of cybersecurity concepts and digital security.
 
-📜 The certificate is included in my Virtual CV Portfolio and is available for download.
-
----
-
-## 🌐 About This Portfolio
-
-This project is my personal **Virtual CV Portfolio**, created to provide a modern and interactive way of presenting my professional profile.
-
-The website showcases my **About Me section, technical skills, education, work experience, projects, certification, career interests, and contact information**. It also provides downloadable versions of my **CV and cybersecurity certificate**.
-
-The portfolio was designed with a **fresh green-themed interface** to create a professional, modern, and visually appealing experience for visitors, recruiters, and potential employers.
+📜 My certificate is included in my Virtual CV Portfolio.
 
 ---
 
-## 🛠️ Technologies Used
+## 🌐 My Virtual CV Portfolio
+
+I created this **Virtual CV Portfolio** to showcase my professional profile in a modern and interactive way.
+
+The portfolio includes:
+
+✨ About Me  
+🎓 Education  
+💻 Technical Skills  
+💼 Work Experience  
+🚀 Projects  
+🛡️ Certification  
+📄 Downloadable CV  
+📜 Downloadable Certificate  
+📬 Contact Information  
+
+The portfolio was designed with a fresh green-themed interface that reflects my personal style while maintaining a professional appearance suitable for recruiters and employers.
+
+---
+
+## 🧰 Technologies Used to Build This Portfolio
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github" alt="Technologies Used">
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github" alt="HTML, CSS, Visual Studio Code and GitHub">
 </p>
 
-The Virtual CV Portfolio was developed using **HTML5** for the website structure and **CSS3** for styling, layout, responsive design, animations, and visual effects. **Visual Studio Code** was used as the main development environment, while **GitHub** is used to manage and showcase my projects and code.
+- 🌐 **HTML5** — Website structure
+- 🎨 **CSS3** — Styling, layout and responsive design
+- 💙 **Visual Studio Code** — Development environment
+- 🐙 **GitHub** — Version control and project hosting
+
+> 💡 **Note:** These are the technologies used to build this portfolio. My **5 main technical skills** are Java, C++, C#, Python, and SQL.
 
 ---
 
@@ -169,41 +203,57 @@ The Virtual CV Portfolio was developed using **HTML5** for the website structure
 
 ---
 
-## ▶️ How to Run the Portfolio
+## ⚡ Run the Portfolio
 
-To run this project locally, download or clone the repository and open the project folder in **Visual Studio Code**.
+Want to run the portfolio on your computer?
 
-Open the `index.html` file in a web browser or use the **Live Server** extension in Visual Studio Code to launch the portfolio.
+```bash
+# 1. Clone the repository
+git clone https://github.com/Snentlantla/your-repository-name.git
 
-📌 **Important:** The CV and certificate PDF files should be placed in the same folder as the `index.html` file so that the download buttons can access them correctly.
+# 2. Open the project
+cd your-repository-name
+
+# 3. Open the project in Visual Studio Code
+code .
+
+# 4. Launch index.html using Live Server
+```
+
+📌 **Important:** Keep `cv.pdf` and `certificate.pdf` in the same folder as `index.html` so the download buttons can access the files correctly.
 
 ---
 
 ## 📄 Portfolio Documents
 
-The portfolio includes downloadable professional documents:
-
-📄 **CV** — My professional curriculum vitae containing my education, skills, work experience, projects, and career interests.
-
-📜 **Cybersecurity Certificate** — My Introduction to Cybersecurity certification from Cisco Networking Academy.
+| Document | Description |
+|---|---|
+| 📄 **CV** | My professional curriculum vitae |
+| 📜 **Certificate** | Introduction to Cybersecurity certificate |
 
 ---
 
 ## 📬 Let's Connect
 
-I am open to connecting with **professionals, developers, technology enthusiasts, recruiters, and potential employers**.
+<div align="center">
 
-📍 **Location:** Johannesburg, South Africa
+📍 **Johannesburg, South Africa**
 
-📱 **Phone:** 076 591 3190
+📱 **076 591 3190**
 
-📧 **Email:** sinentlantlatshangase02@gmail.com
+📧 **sinentlantlatshangase02@gmail.com**
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/sinentlantla-tshangase-b14a483b2
+<br>
 
-💻 **GitHub:**  
-https://github.com/Snentlantla
+<a href="https://www.linkedin.com/in/sinentlantla-tshangase-b14a483b2">
+  <img src="https://img.shields.io/badge/LinkedIn-My%20Profile-5b9c6c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/Snentlantla">
+  <img src="https://img.shields.io/badge/GitHub-My%20Projects-17251d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
 
 ---
 
@@ -211,28 +261,28 @@ https://github.com/Snentlantla
 
 I am working towards building a career in **Software Development and Data Analytics**. I want to continue developing my programming skills, gain practical industry experience, work on meaningful projects, and use technology to create solutions that make a positive impact.
 
-I believe in **continuous learning, problem-solving, creativity, and growth** as I continue my journey in the technology industry.
+I believe that the best way to grow is to **keep learning, keep building, and keep improving**.
 
-> 🌿 **Learn. Build. Analyse. Improve.**
->
-> 💻 **Software Development** × 📊 **Data Analytics**
+> 🌿 **"Learning today. Building tomorrow."**
 
 ---
 
 <div align="center">
 
-## 🚀 BUILDING TODAY. LEARNING EVERY DAY.
+# 🚀 SOFTWARE DEVELOPMENT × DATA ANALYTICS
 
-### 🌱 Learning • 💻 Building • 📊 Analysing • 🚀 Growing
-
----
-
-⭐ **Thank you for visiting my Virtual CV Portfolio!**
-
-**Feel free to explore my portfolio and connect with me.**
+### 💻 Code it. 📊 Analyse it. 🌱 Improve it.
 
 <br>
 
-<sub>© 2026 Sinentlantla Tshangase. All Rights Reserved.</sub>
+⭐ **Thanks for checking out my Virtual CV Portfolio!**
+
+**Feel free to explore my work and connect with me.**
+
+<br>
+
+<sub>© 2026 Sinentlantla Tshangase • Built with 💚 and code</sub>
+
+</div>
 
 </div>
