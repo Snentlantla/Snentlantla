@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-I'm **Sinentlantla Tshangase**, a Final-year **BSc Information Technology student** passionate about **Software Development** and **Data Analytics**. I enjoy solving problems, building practical solutions, working with databases, and exploring data.
+I'm **Sinentlantla Tshangase**, a Final-year **BSc Information Technology student** passionate about **Software Development** and **Data Analytics**. I enjoy solving problems, building practical solutions, working with databases and exploring data.
 
 🎯 My goal is to grow as a **Software Developer** while developing my skills in **Data Analytics** and gaining real-world industry experience.
 
@@ -47,7 +47,7 @@ A software project for managing pet information using programming concepts and f
 `C++` · `OOP` · `File Handling`
 
 ### 🗄️ Database Management Projects
-Relational database projects involving database design, SQL queries, relationships, and data retrieval.
+Relational database projects involving database design, SQL queries, relationships and data retrieval.
 
 `SQL` · `Database Design` · `ERD`
 
@@ -70,7 +70,7 @@ Used **Python and K-Means clustering** to analyse fitness tracker data and ident
 
 **General Worker — Brumby Shoe Components** | 2022 – 2023
 
-Developed valuable skills in **teamwork, communication, reliability, discipline, adaptability, and time management**.
+Developed valuable skills in **teamwork, communication, reliability, discipline, adaptability and time management**.
 
 ---
 
@@ -82,7 +82,7 @@ Developed valuable skills in **teamwork, communication, reliability, discipline,
 
 ## 🌐 Virtual CV Portfolio
 
-A modern digital CV built with **HTML5 and CSS3**, showcasing my skills, education, experience, projects, certification, and downloadable professional documents.
+A modern digital CV built with **HTML5 and CSS3**, showcasing my skills, education, experience, projects, certification and downloadable professional documents.
 
 🛠️ **Built with:** HTML5 · CSS3 · Visual Studio Code · GitHub
 
