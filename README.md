@@ -7,7 +7,7 @@
 **Final-Year BSc Information Technology Student | North-West University 🇿🇦**
 
 <p>
-  <a href="https://github.com/Snentlantla">
+  <a href="https://github.com/Second021">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
@@ -52,11 +52,15 @@ A software project for managing pet information using programming concepts and f
 
 `C++` · `OOP` · `File Handling`
 
+---
+
 ### 🗄️ Database Management Projects
 
 Relational database projects involving database design, SQL queries, relationships and data retrieval.
 
 `SQL` · `Database Design` · `ERD`
+
+---
 
 ### 📊 Fitness Tracker Data Analysis
 
@@ -111,7 +115,7 @@ https://second021.github.io/Snentlantla-portfolio/
 https://www.linkedin.com/in/sinentlantla-tshangase-b14a483b2
 
 💻 GitHub:  
-https://github.com/Snentlantla
+https://github.com/Second021
 
 🌐 Portfolio:  
 https://second021.github.io/Snentlantla-portfolio/
