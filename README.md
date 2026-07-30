@@ -62,7 +62,7 @@ Used **Python and K-Means clustering** to analyse fitness tracker data and ident
 
 🎓 **BSc Information Technology** — North-West University | 2023 – Present
 
-🏫 **National Senior Certificate** — Ncomani High School | 2020 – 2021
+🏫 **National Senior Certificate** — Ncomani High School | 2018 – 2021
 
 ---
 
