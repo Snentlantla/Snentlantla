@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/in/sinentlantla-tshangase-b14a483b2">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-5b9c6c?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://second021.github.io/Snentlantla-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
 </p>
 
 🌱 Learn • 💻 Build • 📊 Analyse • 🚀 Grow
@@ -86,6 +89,9 @@ A modern digital CV built with **HTML5 and CSS3**, showcasing my skills, educati
 
 🛠️ **Built with:** HTML5 · CSS3 · Visual Studio Code · GitHub
 
+🔗 **Live Portfolio:**  
+**https://second021.github.io/Snentlantla-portfolio/**
+
 ---
 
 ## 📬 Connect With Me
@@ -95,7 +101,8 @@ A modern digital CV built with **HTML5 and CSS3**, showcasing my skills, educati
 📱 **076 591 3190**
 
 💼 [LinkedIn](https://www.linkedin.com/in/sinentlantla-tshangase-b14a483b2)  
-💻 [GitHub](https://github.com/Snentlantla)
+💻 [GitHub](https://github.com/Snentlantla)  
+🌐 [Portfolio](https://second021.github.io/Snentlantla-portfolio/)
 
 ---
 
@@ -107,4 +114,5 @@ A modern digital CV built with **HTML5 and CSS3**, showcasing my skills, educati
 
 ⭐ Thanks for visiting my profile!
 
+</div>
 </div>
