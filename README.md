@@ -8,13 +8,15 @@
 
 <p>
   <a href="https://github.com/Snentlantla">
-    <img src="https://img.shields.io/badge/GitHub-Snentlantla-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
+
   <a href="https://www.linkedin.com/in/sinentlantla-tshangase-b14a483b2">
-    <img src="https://img.shields.io/badge/LinkedIn-Sinentlantla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
   <a href="https://second021.github.io/Snentlantla-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2ECC71?style=for-the-badge&logo=googlechrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </p>
 
@@ -45,16 +47,19 @@ I'm **Sinentlantla Tshangase**, a Final-year **BSc Information Technology studen
 ## 🚀 Featured Projects
 
 ### 🐾 Pet Management System
+
 A software project for managing pet information using programming concepts and file handling.
 
 `C++` · `OOP` · `File Handling`
 
 ### 🗄️ Database Management Projects
+
 Relational database projects involving database design, SQL queries, relationships and data retrieval.
 
 `SQL` · `Database Design` · `ERD`
 
 ### 📊 Fitness Tracker Data Analysis
+
 Used **Python and K-Means clustering** to analyse fitness tracker data and identify patterns.
 
 `Python` · `K-Means` · `Data Analytics`
@@ -90,25 +95,25 @@ A modern digital CV built with **HTML5 and CSS3**, showcasing my skills, educati
 🛠️ **Built with:** HTML5 · CSS3 · Visual Studio Code · GitHub
 
 🔗 **Live Portfolio:**  
-**https://second021.github.io/Snentlantla-portfolio/**
+https://second021.github.io/Snentlantla-portfolio/
 
 ---
 
 ## 📬 Connect With Me
 
-📍 Johannesburg, South Africa
+📍 Johannesburg, South Africa  
 
 📧 **sinentlantlatshangase02@gmail.com**
 
 📱 **076 591 3190**
 
-💼 **LinkedIn:**  
+💼 LinkedIn:  
 https://www.linkedin.com/in/sinentlantla-tshangase-b14a483b2
 
-💻 **GitHub:**  
+💻 GitHub:  
 https://github.com/Snentlantla
 
-🌐 **Portfolio:**  
+🌐 Portfolio:  
 https://second021.github.io/Snentlantla-portfolio/
 
 ---
@@ -122,5 +127,3 @@ https://second021.github.io/Snentlantla-portfolio/
 ⭐ Thanks for visiting my profile!
 
 </div>
-
-
